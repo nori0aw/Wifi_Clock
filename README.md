@@ -15,3 +15,5 @@ First time setup:
  -  A setup page shold open and you should select the wifi notwork that the clock will connect to and enter the password.
  -  choose the time format that you prefer.
  -  Setup is done...
+
+![alt text](https://github.com/nori0aw/Wifi_Clock/blob/master/FreeCAD_Files/IMG_2021-06-27-14-01-05-535.jpg)
